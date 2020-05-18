@@ -1,4 +1,5 @@
 # THE 2048 GAME IN PYTHON
+##The platform used is windows 
 
 ## Sample gif displaying the gameplay:
 user enters initial game conditions:
