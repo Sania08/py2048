@@ -9,7 +9,6 @@ user enters initial game conditions:
 
 gif:
 
-keep the mouse on gif to play the gif
 
 ![1stgif](https://user-images.githubusercontent.com/64685403/82232527-62a89100-994c-11ea-8165-5d47f5509d56.gif)
 ## Libraries used:
